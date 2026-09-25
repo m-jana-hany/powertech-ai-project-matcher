@@ -1,6 +1,6 @@
 # ⚡ PowerTech — AI Project Matcher
 
-[![Badge]([https://img.shields.io/badge/Conceived_%26_Designed-DECI_Summer_Camp-orange](https://ai-and-data-science-ccqs.bolt.host/))](#)
+[![Badge](https://img.shields.io/badge/Conceived_%26_Designed-DECI_Summer_Camp-orange)](#)
 
 A system design concept for an AI-powered project matching engine that connects students with Data Science & AI projects based on their technical skills and interests.
 
@@ -27,4 +27,4 @@ During tech bootcamps and hackathons, manually pairing students with suitable pr
 ---
 
 ## 🔗 Project Link
-* **Live Prototype / Web Demo:** [Insert Your Link Here](https://your-website-link.com)
+* **Live Prototype / Web Demo:** [https://ai-and-data-science-ccqs.bolt.host/]
